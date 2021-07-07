@@ -3,7 +3,7 @@
 
 Click the button below to deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/uehad/shadowsocks-heroku/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/sfdhdjdher/shadowsocks-heroku/tree/main)
 
 ## 0. Attention
 
@@ -56,7 +56,7 @@ Those without a client can also download from here (Android):
 
 windows:
 
-<https://github.com/shadowsocks/shadowsocks-windows/uehad/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E>
+<https://github.com/shadowsocks/shadowsocks-windows/sfdhdjdher/Shadowsocks-Windows-%E4%BD%BF%E7%94%A8%E8%AF%B4%E6%98%8E>
 
 # Reference
 
